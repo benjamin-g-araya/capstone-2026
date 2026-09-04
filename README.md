@@ -7,6 +7,9 @@ Ingeniería en Informática, Duoc UC. En fase de definición.
 Repositorio destinado a el desarrollo del proyecto Capstone del equipo BeNicAl, 
 correspondiente a la carrera de Ingeniería en Informática de Duoc UC.
 
+Actualmente nos encontramos en la etapa de exploración y definición del 
+alcance, objetivos y requerimientos.
+
 ## 🏢 Empresa: LUM Natural Care
 
 Es una marca chilena de cuidado personal formulada exclusivamente con ingredientes de origen natural.	
@@ -15,10 +18,6 @@ Es una marca chilena de cuidado personal formulada exclusivamente con ingredient
 - Sitio Web: https://lumnaturalcare.cl
 - Instagram: https://www.instagram.com/lumnaturalcare
 - TikTok: https://www.tiktok.com/@lumnaturalcare
-
-
-Actualmente nos encontramos en la etapa de exploración y definición del 
-alcance, objetivos y tecnologías a utilizar.
 
 ## 👥 Equipo
 - Benjamín Gonzaléz — Product Owner

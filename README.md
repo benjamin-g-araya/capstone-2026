@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="./Documentos/Recursos/Logos/lum-logo.svg" alt="LUM Natural Care" width="190">
   <br>
   <img src="./Documentos/Recursos/Logos/duoc_uc_logo.png" alt="Duoc UC" width="230">
   <p><strong>LUM Natural Care · Sistema Integrado de Gestión</strong></p>
@@ -10,9 +9,6 @@
     <img src="https://img.shields.io/badge/Contenido-documentación-9A3A56?style=flat-square" alt="Repositorio de documentación">
     <img src="https://img.shields.io/badge/Duoc%20UC-Ingeniería%20en%20Informática-1F4E79?style=flat-square" alt="Duoc UC">
     <br>
-    <a href="https://github.com/benjamin-g-araya/capstone-2026">
-      <img src="https://img.shields.io/badge/GitHub-Repositorio-181717?style=flat-square&logo=github" alt="Repositorio en GitHub">
-    </a>
     <a href="https://github.com/lum-management-system">
       <img src="https://img.shields.io/badge/GitHub-Organización-181717?style=flat-square&logo=github" alt="Organización en GitHub">
     </a>
@@ -23,7 +19,7 @@
 
 LUM Natural Care es un proyecto de transformación digital para una marca chilena de cuidado personal elaborada con ingredientes de origen natural. La solución contempla un **sistema integrado de gestión** con capacidades de **CRM** y **ERP**, respaldado por una arquitectura web moderna y una organización de trabajo basada en metodologías ágiles.
 
-El proyecto es desarrollado por el equipo 7 - **BeNicAl**.
+El proyecto es desarrollado por el equipo 7 **BeNicAl**.
 
 ---
 
@@ -131,17 +127,19 @@ El desarrollo técnico se encuentra organizado en la organización de GitHub [**
 │   │   ├── Alexis Margas Arce/
 │   │   ├── Benjamin Gonzalez Araya/
 │   │   ├── Nicolas Diaz Pavez/
+│   ├── FASE 2/
+│   │   ├── Alexis Margas Arce/
+│   │   ├── Benjamin Gonzalez Araya/
+│   │   ├── Nicolas Diaz Pavez/
 │   │   └── General-Equipo-7/
-│   └── FASE 2/
-│       ├── Alexis Margas Arce/
-│       ├── Benjamin Gonzalez Araya/
-│       ├── Nicolas Diaz Pavez/
-│       └── General-Equipo-7/
+│   └── FASE 3/
+│       └── Benjamin Gonzalez Araya/
 ├── Documentos/
 │   ├── Mockups/              # Propuestas visuales del sistema
 │   ├── Presentaciones/       # Presentaciones de avance por fase
 │   └── Recursos/
-│       └── Logos/            # Identidad visual de LUM y Duoc UC
+│       ├── Equipo/
+│       └── Logos/            # Logos de LUM y Duoc UC
 └── README.md
 ```
 
@@ -150,15 +148,13 @@ El desarrollo técnico se encuentra organizado en la organización de GitHub [**
 - `Actividades/` contiene el trabajo académico organizado primero por fase y, cuando corresponde, por integrante.
 - `Documentos/` contiene los recursos comunes del proyecto, separados por tipo de material.
 - `Recursos/Logos/` conserva los archivos de identidad visual usados por el proyecto.
-- `General-Equipo-7/` identifica los documentos compartidos de una fase.
-- Los nombres originales de los archivos se conservan para facilitar su trazabilidad académica.
+- `General-Equipo-7/` identifica los documentos compartidos de la Fase correspondiente.
 
 ## Cómo encontrar la documentación
 
 | Si buscas... | Revisa... |
 |---|---|
-| Autoevaluaciones, diarios o trabajos individuales | [`Actividades/`](./Actividades) y la carpeta de la fase correspondiente |
-| Documentos compartidos de la Fase 1 | [`Actividades/FASE 1/General-Equipo-7`](./Actividades/FASE%201/General-Equipo-7) |
+| Autoevaluaciones individuales de la Fase 1 | [`Actividades/FASE 1/Alexis Margas Arce`](./Actividades/FASE%201/Alexis%20Margas%20Arce), [`Benjamin Gonzalez Araya`](./Actividades/FASE%201/Benjamin%20Gonzalez%20Araya) y [`Nicolas Diaz Pavez`](./Actividades/FASE%201/Nicolas%20Diaz%20Pavez) |
 | Documentos compartidos de la Fase 2 | [`Actividades/FASE 2/General-Equipo-7`](./Actividades/FASE%202/General-Equipo-7) |
 | Mockups y referencias visuales | [`Documentos/Mockups`](./Documentos/Mockups) |
 | Presentaciones del proyecto | [`Documentos/Presentaciones`](./Documentos/Presentaciones) |
@@ -186,32 +182,30 @@ El mockup general se encuentra en [Documentos/Mockups](./Documentos/Mockups).
 
 Los logotipos utilizados en este README y en los materiales del proyecto se conservan en [Documentos/Recursos/Logos](./Documentos/Recursos/Logos), evitando depender de la carpeta temporal con la que fueron compartidos.
 
-La autoevaluación general se encuentra en [Actividades/FASE 1/General-Equipo-7](./Actividades/FASE%201/General-Equipo-7).
-
 Para consultar el código de la plataforma, visita los repositorios [`api`](https://github.com/lum-management-system/api) y [`web`](https://github.com/lum-management-system/web).
 
 ## Contribuidores
 
-<table align="center">
+<table align="center" border="0" cellpadding="12" cellspacing="0">
   <tr>
-    <td align="center">
+    <td width="180" align="center" valign="top">
       <a href="https://github.com/Elalersiss">
-        <img src="https://github.com/Elalersiss.png?size=160" width="100" height="100" style="border-radius: 50%;" alt="Alexis Margas"><br>
-        <sub><b>Alexis Margas</b></sub>
+        <img src="./Documentos/Recursos/Equipo/alexis.png" width="120" height="120" alt="Alexis Margas"><br>
+        <strong>Alexis Margas</strong>
       </a><br>
       <sub>Product Owner</sub>
     </td>
-    <td align="center">
+    <td width="180" align="center" valign="top">
       <a href="https://github.com/benjamin-g-araya">
-        <img src="https://github.com/benjamin-g-araya.png?size=160" width="100" height="100" style="border-radius: 50%;" alt="Benjamín González"><br>
-        <sub><b>Benjamín González</b></sub>
+        <img src="./Documentos/Recursos/Equipo/benjamin.png" width="120" height="120" alt="Benjamín González"><br>
+        <strong>Benjamín González</strong>
       </a><br>
       <sub>Scrum Master</sub>
     </td>
-    <td align="center">
+    <td width="180" align="center" valign="top">
       <a href="https://github.com/KANBSETR">
-        <img src="https://github.com/KANBSETR.png?size=160" width="100" height="100" style="border-radius: 50%;" alt="Nicolás Díaz"><br>
-        <sub><b>Nicolás Díaz</b></sub>
+        <img src="./Documentos/Recursos/Equipo/nicolas.png" width="120" height="120" alt="Nicolás Díaz"><br>
+        <strong>Nicolás Díaz</strong>
       </a><br>
       <sub>Development Team</sub>
     </td>
@@ -222,6 +216,6 @@ Para consultar el código de la plataforma, visita los repositorios [`api`](http
 
 <p align="center">
   <img src="./Documentos/Recursos/Logos/lum-logo.svg" alt="LUM Natural Care" width="125"><br>
-  <strong>Proyecto Capstone 2026 · Equipo 7 - BeNicAl</strong><br>
-  <sub> Un proyecto para - LUM Natural Care - </sub>
+  <strong>Proyecto Capstone 2026 · Equipo BeNicAl</strong><br>
+  <sub>Proyecto desarrollado para LUM Natural Care</sub>
 </p>

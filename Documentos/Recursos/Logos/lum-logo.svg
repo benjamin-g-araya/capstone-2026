@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="72" viewBox="0 0 150 72" fill="none" role="img" aria-labelledby="title">
+  <title id="title">LUM Natural Care</title>
+  <g fill="#9A3A56">
+    <path d="M20 7c3-3 7-2 7 2l-8 35 24-4-3 9-34 6L17 12Z" />
+    <path d="m49 10 11-2-7 29c-2 8 2 10 7 6 6-4 10-13 12-21l5-16 11-2-11 44-10 2 1-8C52 60 38 54 42 37Z" />
+    <path d="m95 6 10-2-2 14 17-19 5 5-2 11L140 0l7 4-10 43-11 2 7-29-16 19-5-2 2-20-15 22-4 13-11 2Z" />
+  </g>
+  <text x="8" y="69" fill="#9A3A56" font-size="15" font-family="Nunito, sans-serif" letter-spacing="2.2">Natural Care</text>
+</svg>
